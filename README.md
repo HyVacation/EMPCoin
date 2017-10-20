@@ -1,0 +1,2 @@
+# EMPCoin
+EMP Trading
